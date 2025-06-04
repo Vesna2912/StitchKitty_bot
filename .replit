@@ -1,0 +1,13 @@
+language = "python"
+entrypoint = "main.py"
+
+[unit]
+  language = "python"
+  command = "python3 main.py"
+
+[nix]
+packages = ["python3Full", "zip"]
+
+[[ports]]
+localPort = 8080
+externalPort = 80

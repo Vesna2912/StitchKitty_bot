@@ -1,0 +1,352 @@
+{
+  "1235501707": {
+    "name": "💗𝙑𝙚𝙨𝙣𝙖",
+    "total": 150,
+    "updated": "2025-05-31 19:16:20",
+    "vacation": true,
+    "stage": "choose_character"
+  },
+  "863890757": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 10:57:00",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "1087968824": {
+    "name": "Надя",
+    "character": "🐱 Котик Стичик",
+    "total": 100,
+    "updated": "2025-06-01 11:08:36",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "5387167145": {
+    "name": null,
+    "character": "🦉 Сова Схемовна",
+    "total": 0,
+    "updated": "2025-06-01 11:09:34",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "5337241069": {
+    "name": "🦔 Ёжик Петелькин",
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 11:18:53",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "1499790897": {
+    "name": "🐱 Котик Стичик",
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 11:18:57",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "222559997": {
+    "name": "🛑 Стоп-участие",
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 11:36:30",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "1197615211": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 11:37:25",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "191332854": {
+    "name": "Марина",
+    "character": "🐰 Зайка Лютик",
+    "total": 0,
+    "updated": "2025-06-01 11:39:59",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "908800975": {
+    "name": "🐾 Сменить персонажа",
+    "character": "🐰 Зайка Лютик",
+    "total": 0,
+    "updated": "2025-06-01 11:51:21",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "526483758": {
+    "name": "Солнышко",
+    "character": "🐰 Зайка Лютик",
+    "total": 0,
+    "updated": "2025-06-01 11:51:47",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "2142986555": {
+    "name": "Яна",
+    "character": "🐱 Котик Стичик",
+    "total": 0,
+    "updated": "2025-06-01 12:03:01",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "540553138": {
+    "name": "Танюшка",
+    "character": "🐱 Котик Стичик",
+    "total": 0,
+    "updated": "2025-06-01 12:03:29",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "1695794235": {
+    "name": "Марина",
+    "character": "🐱 Котик Стичик",
+    "total": 0,
+    "updated": "2025-06-01 12:04:29",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "1603453383": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:31:50",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "2046894247": {
+    "name": "Светлана",
+    "character": "🦔 Ёжик Петелькин",
+    "total": 0,
+    "updated": "2025-06-01 18:31:50",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "5546016145": {
+    "name": "➕ Ввести +крестики",
+    "character": "🦔 Ёжик Петелькин",
+    "total": 0,
+    "updated": "2025-06-01 18:31:50",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "6191691581": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:31:51",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "1214742891": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:31:51",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "1833952624": {
+    "name": "🐾 Сменить персонажа",
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:31:57",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "7297292720": {
+    "name": "Хотела бы поучаствовать, но кресты считать лень. Схем электронных нет, только бумажные и на канве.",
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:03",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "5833128453": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:10",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "260322359": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:10",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "445513142": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:10",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "5419802787": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:11",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "7001353367": {
+    "name": "Меня зовут Екатерина я вышивают почти 2 года.",
+    "character": "🐱 Котик Стичик",
+    "total": 0,
+    "updated": "2025-06-01 18:32:11",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "5211935162": {
+    "name": null,
+    "character": null,
+    "total": 645,
+    "updated": "2025-06-01 18:32:12",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "5160047398": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:12",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "1054886729": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:13",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "5668003931": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:13",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "672093504": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:13",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "997447705": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:13",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "2026390469": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:13",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "1842697363": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:14",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "802801108": {
+    "name": "📊 Мой прогресс",
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:14",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "5365103183": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:14",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "choose_character"
+  },
+  "888962287": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:14",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "912515323": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:16",
+    "vacation": false,
+    "remind_count": 0,
+    "stage": "set_name"
+  },
+  "993680455": {
+    "name": "Даша",
+    "character": "🐱 Котик Стичик",
+    "total": 0,
+    "updated": "2025-06-01 18:32:17",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "1817657681": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:17",
+    "vacation": false,
+    "remind_count": 0
+  },
+  "5575400780": {
+    "name": null,
+    "character": null,
+    "total": 0,
+    "updated": "2025-06-01 18:32:18",
+    "vacation": false,
+    "remind_count": 0
+  }
+}

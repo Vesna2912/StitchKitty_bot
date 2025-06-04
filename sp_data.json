@@ -1,0 +1,193 @@
+{
+  "active_sp": {
+    "title": "Яркое лето",
+    "start_date": "01.06.2025",
+    "end_date": "31.08.2025",
+    "description": "1. Участвуют любые сюжеты, главное яркие, как лето. \n2. Можно участвовать уже с начатыми процессами, или начать новый процесс, можно несколько процессов брать.\n3. Нормы вышитых крестиков нет, вышивайте в свое удовольствие!\n4. Отчеты - 2 раза в месяц с фото \"было-стало\" + КС (в 15 и 30/31 числах).\n    Возможен \"отпуск\".\n5. Помогать нам будет наш БОТ.\n6. После завершения СП обязательно будут призы для нескольких номинаций.\n7. Присоединиться к СП можно в любое время!",
+    "start_codeword": "Яркое лето",
+    "report_codewords": [
+      "клубника",
+      "малина",
+      "крыжовник",
+      "виноград",
+      "груша",
+      "яблоко",
+      "вишня",
+      "смородина",
+      "черника",
+      "арбуз",
+      "ежевика",
+      "клюква"
+    ],
+    "report_index": 0,
+    "logo_id": "AgACAgQAAxkBAAIBQGg8zvGvCkC4mg188SGyNT-mUq2mAAKtxzEb4UzoUcmbWte5BphSAQADAgADeQADNgQ"
+  },
+  "participants": {
+    "1235501707": {
+      "name": "Женя",
+      "start_photo": "AgACAgQAAyEFAASKieQUAAIc_mg-zscPD0TQW03fGLYMLFUbWl-vAAKAyjEbYfz5US0I21uWanOyAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "1087968824": {
+      "name": "Надя",
+      "start_photo": "AgACAgQAAyEFAASKieQUAAIcFGg9yFDsfwiPXcJDCx92191xq-3dAAKaxDEbF2PxUVX5xSWIUZhAAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5387167145": {
+      "name": "Анна",
+      "start_photo": "AgACAgIAAxkBAAIBjGg9yK2LJBS3TIsTxmoWpk3ZAwwMAAJC9DEb67QhSSsjncizxrLDAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5878267640": {
+      "name": "Selena",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZ4Gg8db-9ayPC9H785VIUgyXEluPHAAJz8DEbWiDoSa4LZwIs7xbQAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "1885940175": {
+      "name": "Светлана",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZ1Wg8b0ihP48LZ2Cs_DF4BfvjuXmzAAJS8DEbWiDoSVy24hHvd0Q0AQADAgADeQADNgQ",
+      "reports": []
+    },
+    "1833952624": {
+      "name": "Ольга",
+      "start_photo": "AgACAgIAAxkBAAIBm2g9zFTfhC0YFqqukIQ2TXillzQTAAK78DEbJE3wSQHWrARS_WsUAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "1344111411": {
+      "name": "Эней",
+      "start_photo": "AgACAgUAAxkBAAIBq2g90hj5Rw6rkGlwDkoX4SOQaMVbAAKcxzEbV8bwVS9RkJwPfaDPAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "724104617": {
+      "name": "Женя",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIaeGg8s0C1AqS3xpe-fe6vRl6MO4-vAALk9DEbhbboSXMwYpGPpCZBAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5580070499": {
+      "name": "Наташа",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIbZmg9QuIV62oI-QTYAAEwmhn-EkHn3wAC1_YxG1og8EljycOTdB5VbQEAAwIAA3kAAzYE",
+      "reports": []
+    },
+    "5646948357": {
+      "name": "Лариса",
+      "start_photo": "AgACAgIAAxkBAAIBxmg91s-PFjNI4uD8nWnPBDLOGDAPAAJO8DEbcnfwSV_8bZZjherpAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "908800975": {
+      "name": "Кариша",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIcNWg92G4cLNVzFHjbL1blS8bfEXYgAAJI8jEbLeXxSbz2bahQCjS7AQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5211935162": {
+      "name": "Таня",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZnWg8WXUWHm--BocgCx93wzrMG5pXAAKW7zEbWiDoSS805R3p4d3uAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5668003931": {
+      "name": "Елена",
+      "start_photo": "AgACAgIAAxkBAAIB_2g9-YzchrQHQkHfrckbYZDRMYhpAAIR-DEbvVfwSf843IgzYZw2AQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5191530497": {
+      "name": "Марина",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIbSWg85rj2s62G_UA3p3CEUC577DL-AAL48zEbWiDoSU8ZB-V34BgwAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "6192528305": {
+      "name": "Moonfox",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZ1Gg8bcRn8oJOJZ5oXUcCcvFTupjnAAI_8DEbWiDoSRPICTPXfVJ7AQADAgADeQADNgQ",
+      "reports": []
+    },
+    "562372495": {
+      "name": "Светлана",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZuWg8afS9xcY-XKYEItcfMCTZmsgdAAIU8DEbWiDoSWpVRgABuiOlrgEAAwIAA3kAAzYE",
+      "reports": []
+    },
+    "5337241069": {
+      "name": "Ольга",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZn2g8WehQJ2lp2zZoXRTr45CVY8pQAAKZ7zEbWiDoSf-URYxsfDnnAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5286418219": {
+      "name": "Тасико",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIbT2g9Egkm0n4qNGJg9haVCDHofbhnAAJe9DEbWiDoSR9zGsPhjYxrAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5323318193": {
+      "name": "Валентина",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIcAWg9shzyP9N1wCCZZlei6qUNPoWrAAIQ8DEbLeXxSaV-jDSoX8hsAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "7297292720": {
+      "name": "Джина",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIaFmg8g04ZxPGVaH6ZYcUMYG0_TP2xAALr8DEbWiDoSdRU1oW1gRMXAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5266875668": {
+      "name": "Валентина",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIcDWg9vqej-ePzwbCBpOGj3xPSCa3qAAIg8TEbLeXxSTXuylq_vt7cAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "898674421": {
+      "name": "Настя",
+      "start_photo": "AgACAgIAAxkBAAICkWg-6cACQe0D4pjWqrm4xhKp1rVpAAIM9jEb9vH4SbDe9Ijj9JaXAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "802801108": {
+      "name": "Ирина",
+      "start_photo": "AgACAgIAAxkBAAICpGg-8d3BsU9vJcjOPO6tP0wwnfI6AAIe8zEbUjn4SeXexYG20Z9bAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5968474261": {
+      "name": "Елена",
+      "start_photo": "AgACAgIAAxkBAAICrWg-8odB7LtvLtczbj3ITNIVqRYbAAIa7jEb0HgQSVdbiPlfGOPJAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5181610129": {
+      "name": "Юлия",
+      "start_photo": "AgACAgIAAxkBAAICuGg--Q78o5NM4qr93T0wz4CW3yOkAAJ-8DEbH0j5SUVzqk6O679yAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "5109926931": {
+      "name": "Александра",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIdR2g--spgaYN8McIQRyiBM64wwo28AAKw-TEbLeX5STaKn469jy0lAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "745463364": {
+      "name": "Татьяна",
+      "start_photo": "AgACAgIAAxkBAAIC0Gg_BdWlGiuQrOPz-4ZxxHn_OfpMAAKe7TEbZB35STmqgFPDASTUAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "934234723": {
+      "name": "Belka",
+      "start_photo": "AgACAgIAAxkBAAIC0mg_BdW3vRzOqRvZNxp5CCXZCcB4AAKR-DEbg6L5SQ-GN5-qpfzzAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "1603453383": {
+      "name": "Инна",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIZr2g8Z5DLg764ZGdqlDcP9fFh0KQ2AAIK8DEbWiDoSe7jeTUnpUsfAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "561277540": {
+      "name": "Наталья",
+      "start_photo": "AgACAgIAAxkBAAIDH2g_MZa1dJr1Je017yEuvBWvATHHAALh7zEb6Nv4SahkbNwAAYoPtAEAAwIAA3kAAzYE",
+      "reports": []
+    },
+    "1390980999": {
+      "name": "Наталья",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIcjWg-eEDavHLoxWeTrfbVXh9zhpntAAKn9DEbLeX5SeUv-q712A18AQADAgADeQADNgQ",
+      "reports": []
+    },
+    "1794570235": {
+      "name": "Катерина",
+      "start_photo": "AgACAgIAAxkBAAIDPGg_Q3zL4t3FPLkXWS6rTGt2mc5sAAIo-TEbmJL5SQOzR7ywLT6MAQADAgADeQADNgQ",
+      "reports": []
+    },
+    "824908040": {
+      "name": "Елизавета",
+      "start_photo": "AgACAgIAAyEFAASKieQUAAIdkmg_R3fjQzmjIrucQ3uY7dZhE6c3AAIt7zEbLeUBSqsr-kyate1kAQADAgADeQADNgQ",
+      "reports": []
+    }
+  },
+  "reports": []
+}
